@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.db
+*.opendb
+*.db-shm
+*.db-wal
+
+# Build outputs
+Debug/
+Release/
+x64/
+*.exe
+*.obj
